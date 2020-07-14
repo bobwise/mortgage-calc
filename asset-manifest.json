@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mortgage-calc/static/css/main.110d6dab.chunk.css",
+    "main.js": "/mortgage-calc/static/js/main.4792b352.chunk.js",
+    "main.js.map": "/mortgage-calc/static/js/main.4792b352.chunk.js.map",
+    "runtime-main.js": "/mortgage-calc/static/js/runtime-main.122f83cb.js",
+    "runtime-main.js.map": "/mortgage-calc/static/js/runtime-main.122f83cb.js.map",
+    "static/js/2.8d8ef736.chunk.js": "/mortgage-calc/static/js/2.8d8ef736.chunk.js",
+    "static/js/2.8d8ef736.chunk.js.map": "/mortgage-calc/static/js/2.8d8ef736.chunk.js.map",
+    "index.html": "/mortgage-calc/index.html",
+    "precache-manifest.3ecf5bc679da69e74a072c8c08ed583e.js": "/mortgage-calc/precache-manifest.3ecf5bc679da69e74a072c8c08ed583e.js",
+    "service-worker.js": "/mortgage-calc/service-worker.js",
+    "static/css/main.110d6dab.chunk.css.map": "/mortgage-calc/static/css/main.110d6dab.chunk.css.map",
+    "static/js/2.8d8ef736.chunk.js.LICENSE.txt": "/mortgage-calc/static/js/2.8d8ef736.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.122f83cb.js",
+    "static/js/2.8d8ef736.chunk.js",
+    "static/css/main.110d6dab.chunk.css",
+    "static/js/main.4792b352.chunk.js"
+  ]
+}
