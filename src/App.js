@@ -66,9 +66,9 @@ function App() {
           An accessible and respectful mortgage calculator
         </SprkText>
 
-        <SprkText additionalClasses="sprk-b-TypeBodyTwo sprk-u-mvl">
+        {/* <SprkText additionalClasses="sprk-b-TypeBodyTwo sprk-u-mvl">
           Enter some info and get some numbers.
-        </SprkText>
+        </SprkText> */}
 
         <SprkTextInput
           label="Home Price"
