@@ -14,7 +14,7 @@ function IconSet() {
   }, [])
 
   return (
-    <div className='spark-icons' dangerouslySetInnerHTML={{ __html: icons }} />
+    <div aria-hidden="true" className='spark-icons' dangerouslySetInnerHTML={{ __html: icons }} />
   );
 }
 
